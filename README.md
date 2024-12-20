@@ -1,4 +1,7 @@
-## Fireship
+2024-1220
+
+## Fireship course
+
 
 The [Fireship PRO](https://fireship.io) course platform frontend built with Svelte, Tailwind, Hugo, Firebase, & Flamethrower. 
 
